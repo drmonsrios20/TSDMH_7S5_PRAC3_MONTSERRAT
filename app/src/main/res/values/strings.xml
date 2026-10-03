@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">TSDMH_7S5_PRAC3_MONTSERRAT</string>
+    <string name="p1titulo">INGRESO DE DATOS</string>
+    <string name="p1Nombre">Ingresa tu nombre</string>
+    <string name="p2Edad">Ingresa tu edad</string>
+    <string name="p1hNombre">Aqui tu nombre</string>
+    <string name="p1hEdad">Edad</string>
+    <string name="p1btn1">Saluda</string>
+    <string name="Dialogook">Aceptar</string>
+</resources>
